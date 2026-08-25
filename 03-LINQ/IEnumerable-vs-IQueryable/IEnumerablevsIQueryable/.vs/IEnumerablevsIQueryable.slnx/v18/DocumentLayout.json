@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78551B2-1D42-4FF4-B72B-3F77C0AB1C14}|IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj|c:\\users\\thiru\\source\\repos\\oops_quespond\\oops_quespond\\ienumerablevsiqueryable\\ienumerablevsiqueryable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78551B2-1D42-4FF4-B72B-3F77C0AB1C14}|IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj|solutionrelative:ienumerablevsiqueryable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78551B2-1D42-4FF4-B72B-3F77C0AB1C14}|IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj|c:\\users\\thiru\\source\\repos\\oops_quespond\\oops_quespond\\ienumerablevsiqueryable\\ienumerablevsiqueryable\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78551B2-1D42-4FF4-B72B-3F77C0AB1C14}|IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj|solutionrelative:ienumerablevsiqueryable\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78551B2-1D42-4FF4-B72B-3F77C0AB1C14}|IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj|c:\\users\\thiru\\source\\repos\\oops_quespond\\oops_quespond\\ienumerablevsiqueryable\\ienumerablevsiqueryable\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78551B2-1D42-4FF4-B72B-3F77C0AB1C14}|IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj|solutionrelative:ienumerablevsiqueryable\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78551B2-1D42-4FF4-B72B-3F77C0AB1C14}|IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj|c:\\users\\thiru\\source\\repos\\oops_quespond\\oops_quespond\\ienumerablevsiqueryable\\ienumerablevsiqueryable\\ienumerablevsiqueryable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F78551B2-1D42-4FF4-B72B-3F77C0AB1C14}|IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj|solutionrelative:ienumerablevsiqueryable\\ienumerablevsiqueryable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable\\CompanyDBContext.cs",
+              "RelativeDocumentMoniker": "IEnumerablevsIQueryable\\CompanyDBContext.cs",
+              "ToolTip": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable\\CompanyDBContext.cs",
+              "RelativeToolTip": "IEnumerablevsIQueryable\\CompanyDBContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T11:49:32.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "IEnumerablevsIQueryable\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable\\Models\\Employee.cs",
+              "RelativeToolTip": "IEnumerablevsIQueryable\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:45:33.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable\\Program.cs",
+              "RelativeDocumentMoniker": "IEnumerablevsIQueryable\\Program.cs",
+              "ToolTip": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable\\Program.cs",
+              "RelativeToolTip": "IEnumerablevsIQueryable\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:35:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnumerablevsIQueryable",
+              "DocumentMoniker": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj",
+              "RelativeDocumentMoniker": "IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj",
+              "ToolTip": "C:\\Users\\thiru\\source\\repos\\Oops_Quespond\\Oops_Quespond\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj",
+              "RelativeToolTip": "IEnumerablevsIQueryable\\IEnumerablevsIQueryable.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-23T11:49:02.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
