@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AsyncvsAwait": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
