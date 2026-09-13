@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PolymorphsimMethoOverloadOverrid": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
