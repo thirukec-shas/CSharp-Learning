@@ -1,22 +1,26 @@
 ﻿using System;
 
-
-class Animal
+class Employee
 {
-    public string Name;
+    private string name;
 
-    public void Eat()
+    public string Name
     {
-        Console.WriteLine(Name + " is eating");
-
+        get { return name; }
+        set { name = value; }
     }
-    public static void Main(string[] args)
+
+
+    class Program
     {
-        Animal A = new Animal();
-        A.Name = "Cat";
-        A.Eat();
-     
-
+        public static void Main()
+        {
+            Employee Emp = new Employee();
+            Emp.Name = "ThiruRajesh";
+            Console.WriteLine(Emp.Name);
+        }
     }
+
+
 
 }
