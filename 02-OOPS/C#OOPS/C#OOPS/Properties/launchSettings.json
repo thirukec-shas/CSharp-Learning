@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "C#OOPS": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
